@@ -20,7 +20,7 @@ var mm = today.toLocaleString('default', { month: 'long' }); // get month name
 var yyyy = today.getFullYear();
 
 today = mm + ' ' + dd + ', ' + yyyy;
-document.getElementById("date").innerHTML = "Today is " + today;
+document.getElementById("date").innerHTML = "Account hacked " + today;
 
 /* To set button location */
 
