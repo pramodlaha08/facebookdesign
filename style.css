@@ -144,7 +144,7 @@ button {
     font-family: inherit;
     font-weight: 300;
     font-size: 1rem;
-    text-align: center;
+    text-align: justify;
     height: 5rem;
     border-bottom: 2px solid rgb(239 237 237 / 100%);
 }
